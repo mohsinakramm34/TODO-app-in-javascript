@@ -1,0 +1,60 @@
+/* #helmoo{
+    color: aquamarine;
+} */
+
+.container{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 2px solid black;
+border-radius: 15px;    /* margin: 0 ; */
+    padding: 20px;
+    width: 80%;
+    margin-left: 10%;
+    background-color:  cadetblue;
+}
+.container h1{
+    /* color: brown; */
+    font-size: 38px;
+    margin-left:40% ;
+}
+.container input{
+    width: 60%;
+    height: 6 vh;
+    margin-left: 20%;
+    font-size: 29px;
+    padding: 10px 10px;
+    background-color: aquamarine;
+    border-radius: 15px
+    /* letter-spacing: 20px; */
+}
+
+.container div button{
+    margin-top:15px ;
+    margin-left: 25%;
+    padding: 10px 20px;
+    font-weight: bold;
+    /* color: aliceblue;     */
+    background-color: aquamarine;
+    border-radius: 15px;
+}
+
+#todoParent li{
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 28px;
+    border-radius: 15px;
+    width: 80%;
+    margin-left: 6%;
+    background-color:  cadetblue;
+
+}
+#todoParent li button{
+    margin-left: 30px;
+    padding: 10px;
+ 
+    background-color: aquamarine;
+    border-radius: 15px;
+
+    font-size: 17px;
+}
